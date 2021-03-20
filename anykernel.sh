@@ -4,16 +4,16 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string={Kernel_Name} by {Developer_Name}
+kernel.string=LOrd_ExtEnDed_FoR_RMx2020
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=CPH1859
-device.name2=CPH1861
-device.name3=cph1859
-device.name4=cph1861
+device.name1=rmx2020
+device.name2=RMX2020
+device.name3=
+device.name4=
 device.name5=
 supported.versions=
 supported.patchlevels=
