@@ -4,15 +4,15 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=N.E.O.L.I.T_FoR_E7746
+kernel.string=realmeowOSS for RMX1971
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=E7746
-device.name2=e7746
-device.name3=INNote1
+device.name1=RMX1971
+device.name2=RMX1971CN
+device.name3=RMX1971EX
 device.name4=
 device.name5=
 supported.versions=
