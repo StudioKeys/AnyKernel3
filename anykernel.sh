@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=realmeow for Realme 5 Pro(RMX1971)
+kernel.string=viviz-kernel for Realme 5 Pro(RMX1971)
 do.devicecheck=1
 do.modules=0
 do.systemless=1
