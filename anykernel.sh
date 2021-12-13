@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=viviz-kernel for Realme 3 Pro and 5 Pro (RMX1851/RMX1971)
+kernel.string=ViviZ-kernel for realme sdm710
 do.devicecheck=1
 do.modules=0
 do.systemless=1
