@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=ViviZ-kernel for realme sdm710
+kernel.string=Nexus Kernel for realme sdm710
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -12,7 +12,7 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=RMX1971
 device.name2=RMX1851
-device.name3=
+device.name3=RMX1971CN
 device.name4=
 device.name5=
 supported.versions=
