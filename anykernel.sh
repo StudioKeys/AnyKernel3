@@ -4,18 +4,18 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Nexus Kernel for realme sdm710
+kernel.string=MerakiKernelV1 for Realme3Pro
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=RMX1971
-device.name2=RMX1851
-device.name3=RMX1971CN
+device.name1=RMX1851
+device.name2=RMX1851CN
+device.name3=
 device.name4=
 device.name5=
-supported.versions=
+supported.versions=12.0-13.0
 supported.patchlevels=
 '; } # end properties
 
