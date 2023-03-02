@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=MerakiKernelV1 for Realme3Pro
+kernel.string=MerakiKernel for Realme3Pro by Cykeek
 do.devicecheck=1
 do.modules=0
 do.systemless=1
