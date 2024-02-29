@@ -4,15 +4,15 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=MerakiKernel for Realme3Pro by Cykeek
+kernel.string=Electra-v2.0 for ASUS ROG Phone 3 by StudioKeys
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=RMX1851
-device.name2=RMX1851CN
-device.name3=
+device.name1=obiwan
+device.name2=I003D
+device.name3=I003_1
 device.name4=
 device.name5=
 supported.versions=10.0-14.0
@@ -21,7 +21,7 @@ supported.patchlevels=
 
 # shell variables
 block=/dev/block/by-name/boot;
-is_slot_device=0;
+is_slot_device=auto;
 ramdisk_compression=auto;
 
 
